@@ -1,0 +1,38 @@
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.container {
+    width: 950px;
+    background-color: #eaeaea;
+
+}
+.top-nav {
+    height: 189px;
+    background-color: #ffcc00;
+ text-align: center;
+}
+.side {
+    height: 189px;
+    background-color: #66ccff;
+}
+
+.main {
+    height: 189px;
+    background-color: palevioletred
+}
+.omega {
+    height: 40px;
+    background-color: rgb(124, 216, 112)
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+
+}
+.omega{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
